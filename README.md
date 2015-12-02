@@ -1,2 +1,2 @@
 # SimpleProjects
-Exercises from learning Javascript 
+Exercises for learning Javascript 
